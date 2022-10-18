@@ -9,4 +9,4 @@ Muhammad Zaman, Ihab Mohamad, Mhd Feras
 
 ## Activity 2
 
-#### Project Ideas and Vlog 2:
+#### Project Ideas and Vlog 2: https://www.youtube.com/watch?v=36pHBlYj-z8
