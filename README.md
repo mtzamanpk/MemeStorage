@@ -3,15 +3,11 @@
 By: 
 Muhammad Zaman, Ihab Mohamad, Mhd Feras
 
-## Activity 1
+## Activity Vlogs
 
 #### Projet Ideas and introduction vlog: https://www.youtube.com/watch?v=bpiU_bggoWg
 
-## Activity 2
-
 #### Project Ideas and Vlog 2: https://www.youtube.com/watch?v=36pHBlYj-z8
-
-## Activity 3
 
 #### Project Ideas and Vlog 3: https://youtu.be/xb24vg-OUY0
 
