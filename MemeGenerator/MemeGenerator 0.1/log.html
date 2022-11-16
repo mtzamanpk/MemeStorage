@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Riker-Website</title>
+    <link rel="stylesheet" type="text/css" href="styleSheet.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
+
+</head>
+<body>
+    <header>
+        <h1 class="header">Riker Meme Generator</h1>
+    </header>
+    <br><br>
+    <div class="bd-example">
+    </div>
+    <div class="sec1">
+        <div class="bd-example-snippet bd-code-snippet">
+            <div class="bd-example">
+                <p><button type="button" class="btn-info" data-bs-toggle="collapse" data-bs-target="#LogIn" aria-expanded="true" aria-controls="LogIn">Log In</button>
+                <br></p>
+                <div id="LogIn" class="collapse text-center">
+                    <div class="jumbotron text-center">
+                        <div class="container">
+                            <h2 class="h2">Log In</h2>
+                        </div>
+                        <div>
+                            <form id="LogIn">
+                                <p>Email address </p>
+                                <input type="text" name="email" size="30" placeholder="Email address"/>
+                                <p>Password </p>
+                                <input type="password" name="pswd" size="30" placeholder="Password"/>
+                                <br><button type="button" name="Log in">Log in</button>
+                            </form>
+                            <br>
+                        </div>
+                    </div>
+
+                </div>
+                <p><button type="button" class="btn-info" data-bs-toggle="collapse" data-bs-target="#Register" aria-expanded="true" aria-controls="Register">Register</button>
+                <br></p>
+                <div id="Register" class="collapse text-center">
+                    <div class="jumbotron text-center">
+                        <div class="container">
+                            <h2 class="h2">Sign Up</h2>
+                        </div>
+                        <div>
+                            <form id="SignUp">
+                                <p>Name </p>
+                                <input type="text" name="name" size="30" placeholder="Full name"/>
+                                <p>Email address </p>
+                                <input type="text" name="email" size="30" placeholder="Email address"/>
+                                <p>Password </p>
+                                <input type="password" name="pswd" size="30" placeholder="Password"/>
+                                <p>Confirm Password </p>
+                                <input type="text" name="ConfirmPassword" size="30" placeholder="Confirm Password"/>             
+                                <br><button type="button" name="SignUp">Sign up</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

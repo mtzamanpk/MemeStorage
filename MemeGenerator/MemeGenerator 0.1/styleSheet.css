@@ -1,0 +1,113 @@
+body{
+    background-image: url('backGroundImage.jpg');
+    background-repeat: repeat-y;
+    background-size:cover
+}
+header{
+  font-size: x-large;
+  border-radius: 50px;
+  padding: 0.5em;
+  color: black;
+  background-color: lightblue;
+  clear: left;
+  
+}
+h2{
+  border-radius: 30px;
+  text-align: center;
+  background-color: lightblue;
+  color: black;
+}
+.meme{
+  text-align: center;
+  height: 600px;
+  border-radius: 60px;
+  background-color: hsla(240, 1%, 33%, 0.849);
+  box-shadow: 0 0 40px #043a77c5;
+}
+img{
+  height: 90%;
+  width: 50%;
+}
+.memeNext{
+  margin-left: 80%;
+  font-size: xx-large;
+  color: blue;
+  text-decoration:underline;
+}
+#recent{
+  width: 100%;
+  float: left;
+}
+#link1{
+  border: none;
+  outline: none;
+  height: 40px;
+  background: red;
+  color: #fff;
+  font-size: x-large;
+  border-radius: 20px;
+  margin-left: 5%;
+}
+#link2{
+  border: none;
+  outline: none;
+  height: 40px;
+  background: red;
+  color: #fff;
+  font-size: x-large;
+  border-radius: 20px;
+  margin-left: 68%;
+}
+#link1:hover{
+  cursor: pointer;
+  background: #ffc107;
+  color: #000;
+}
+#link2:hover{
+  cursor: pointer;
+  background: #ffc107;
+  color: #000;
+}
+
+a{
+  font-size: xx-large;
+}
+a:link{
+  color: blue;
+}
+a:hover{
+  color: hotpink;
+}
+a:visited{
+  color: green;
+}
+button:link{
+  color: blue;
+}
+button:hover{
+  color: pink;
+}
+button:visited{
+  color: green;
+}
+.btn-info{
+  background-color: rgb(157, 186, 237);
+  width: 75%; 
+}
+.sec1{
+  
+  background-color: rgb(211, 224, 232);
+  text-align: center;
+  margin-right: 25%;
+  margin-left: 25%;
+}
+#LogIn{
+  margin-left: auto;
+  margin-right: auto;
+}
+#SignUp{
+  margin-left: auto;
+  margin-right: auto;
+}
+
