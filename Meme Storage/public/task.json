@@ -1,0 +1,14 @@
+{
+    "Tasks": [
+      {
+        "id": "0",
+        "text": "games",
+        "state": "unclaimed",
+        "creator": "",
+        "isTaskClaimed": false,
+        "claimingUser": "",
+        "isTaskDone": false,
+        "isTaskCleared": false
+      }
+    ]
+}

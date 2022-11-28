@@ -1,0 +1,22 @@
+<%- include("layouts/header") -%>
+
+<header>
+    <h1 class="header">Riker Meme Generator</h1>
+</header>
+<aside id="relevant">
+    <br>
+    <form action ="/join" method="get">
+        <input id="link1" type="submit" value="Join As A Member">
+    </form>
+    <input id="link2" type="button" value="Create New Meme" onclick="location.href='createMeme.html'">
+</aside>
+
+<section id="recent">
+    <hr>
+    <h2>Most recent meme: </h2><hr>
+    <p class="meme"><img src="meme.png" ><br><a class="memeNext">Next meme >></a></p>
+</section>
+<br>
+
+
+<%- include("layouts/footer") -%>
