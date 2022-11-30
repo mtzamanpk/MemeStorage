@@ -14,7 +14,7 @@ Creating a meme file storer, which saves older memes, and shows it on the main h
 
 #### Projet Ideas and introduction vlog: https://www.youtube.com/watch?v=bpiU_bggoWg
 
-#### Project Ideas and Vlog 2: https://www.youtube.com/watch?v=36pHBlYj-z8
+#### Project Planning and Vlog 2: https://www.youtube.com/watch?v=36pHBlYj-z8
 
 #### Project Design and Vlog 3: https://youtu.be/xb24vg-OUY0
 
