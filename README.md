@@ -18,5 +18,9 @@ Creating a meme file storer, which saves older memes, and shows it on the main h
 
 #### Project Design and Vlog 3: [here](https://youtu.be/xb24vg-OUY0)
 
+#### Project Demo and Demonstration: [here](https://www.youtube.com/watch?v=AEYaOK7f8ck)
+
+#### Project Commercial: [here](https://www.youtube.com/watch?v=vU6fr1Sme_0)
+
 ## License 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
