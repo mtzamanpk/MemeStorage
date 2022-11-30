@@ -22,3 +22,4 @@
 `` line 52: change 0.0.0.0 to localhost`` 
 `` line 77: change 0.0.0.0 to local host``
 #### these changes need to be made, as when it was in development, it was faulty on my internet.
+##### if you have any more issues, please do not hesitate to send me an email: mtzamanpk@gmail.com
