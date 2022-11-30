@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Team Riker Meme Storage</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <br><br>
+    <div id="memeTitle"><p>Meme Storage</p></div>
+    <br><br>
+    <div class="sec1">
+        <div class="bd-example-snippet bd-code-snippet">
+            <div class="bd-example">
+                <p><button id="loginbtn" type="button" class="btn-info" data-bs-toggle="collapse" data-bs-target="#LogIn" aria-expanded="true" aria-controls="LogIn">Log In</button>
+                <br></p>
+                <div id="LogIn" class="collapse text-center">
+                    <div class="jumbotron text-center">
+                        <form id="LogIn" action="/login" method="post">
+                            <div class="mb-3">
+                                <label for="username" class="form-label">Username</label>
+                                <input type="text" class="form-control" id="username" name="username" placeholder="Username" required>
+                            </div>
+                            <div class="mb-3">
+                                <label for="password" class="form-label">Password</label>
+                                <input type="password" class="form-control" id="password" name="password" placeholder="Password" required>
+                            </div>
+                            <button style="background-color: rgb(211, 86, 128);" type="submit" class="btn btn-primary">Log In</button>
+                        </form>
+                        <br>
+                    </div>
+
+                </div>
+                <p><button id="signupbtn" type="button" class="btn-info" data-bs-toggle="collapse" data-bs-target="#Register" aria-expanded="true" aria-controls="Register">Register</button>
+                <br></p>
+                <div id="Register" class="collapse text-center">
+                    <div class="jumbotron text-center">
+                        <form id="SignUp" action="/register" method="post">
+                            <div class="mb-3">
+                                <label for="username" class="form-label">Username</label>
+                                <input type="text" class="form-control" id="username" name="username" placeholder="Username" required>
+                            </div>
+                            <div class="mb-3">
+                                <label for="password" class="form-label">Password</label>
+                                <input type="password" class="form-control" id="password" name="password" placeholder="Password" required>
+                            </div>
+                            <div class="mb-3">
+                                <label for="confirmPassword" class="form-label">Confirm Password</label>
+                                <input type="password" class="form-control" id="authentication" name="confirmPassword" placeholder="Confirm Password" required>
+                            </div>
+                            <button style="background-color: rgb(211, 86, 128);" type="submit" class="btn btn-primary">Sign Up</button>
+                        </form>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>

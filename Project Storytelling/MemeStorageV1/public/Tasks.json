@@ -1,0 +1,52 @@
+[
+    {
+        "task_id": 1,
+        "text": "Lab 7",
+        "state": "unclaimed",
+        "creator": "Hasaan",
+        "isTaskClaimed": false,
+        "claimer": "null",
+        "isTaskDone": false,
+        "isTaskCleared": false
+    },
+    {
+        "task_id": 2,
+        "text": "TEST 2",
+        "state": "claimed",
+        "creator": "Hasaan",
+        "isTaskClaimed": true,
+        "claimer": "Hasaan",
+        "isTaskDone": false,
+        "isTaskCleared": false
+    },
+    {
+        "task_id": 3,
+        "text": "TEST 3",
+        "state": "claimed",
+        "creator": "Hasaan",
+        "isTaskClaimed": true,
+        "claimer": "Admin",
+        "isTaskDone": false,
+        "isTaskCleared": false
+    },
+    {
+        "task_id": 4,
+        "text": "TEST 4",
+        "state": "finished",
+        "creator": "Hasaan",
+        "isTaskClaimed": false,
+        "claimer": "Hasaan",
+        "isTaskDone": true,
+        "isTaskCleared": false
+    },
+    {
+        "task_id": 5,
+        "text": "TEST 5",
+        "state": "finished",
+        "creator": "Hasaan",
+        "isTaskClaimed": false,
+        "claimer": "Admin",
+        "isTaskDone": true,
+        "isTaskCleared": false
+    }
+]

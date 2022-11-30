@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+    background-image: url('backGround.png');
+    background-repeat: no-repeat;
+    background-size:auto;
+    font-family: 'Montserrat', sans-serif;
+}
+#memeTitle{
+    font-size: xx-large;
+    font-style: italic;
+    font-family: fantasy;
+    color: rgb(211, 86, 128);
+    background-color: rgb(124, 194, 196);
+    width: 30%;
+    height: 20%;
+    text-align: center;
+    margin: auto;
+    border-radius: 20px;
+}
+#logo{
+    height: 120px;
+    width: 120px;
+}
+h1 {
+    text-align: center;
+    padding: 20px;
+    margin-top: 5%;
+    margin-bottom: 40px;
+}
+
+input {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+#R{
+    background-color: rgb(208, 243, 208);
+    text-align: center;
+    font-size: x-large;
+    padding: 0px;
+    margin-top: 1%;
+    margin-left: 5%;
+    width: 30%;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 5px;
+    box-shadow: 5px 5px 20px grey;
+}
+.container {
+    background-color: rgb(208, 243, 208);
+    margin-top: 1%;
+
+    text-align: center;
+    padding: 0px;
+    margin-right: 5%;
+    width: 30%;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 5px;
+    box-shadow: 5px 5px 20px grey;
+}
+#loginbtn{
+    width: 50%;
+    height: 20%;
+    background-color: rgb(124, 194, 196);
+    color: rgb(211, 86, 128);
+
+    font-size: xx-large;
+}
+#signupbtn{
+    width: 50%;
+    height: 20%;
+    background-color: rgb(124, 194, 196);
+    color: rgb(211, 86, 128);
+    font-size: xx-large;
+}
+.sec1{
+    background-color: rgb(208, 243, 208);
+    text-align: center;
+    margin-right: 25%;
+    margin-left: 25%;
+}
+#LogIn{
+    margin-left: auto;
+    margin-right: auto;
+}
+#SignUp{
+    margin-left: auto;
+    margin-right: auto;
+}
+.containerLogin{
+    text-align: center;
+    padding: 0px;
+    margin: auto;
+    width: 30%;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 5px;
+    box-shadow: 5px 5px 20px grey;
+}
+
+.container-fluid {
+    background-color: lightgray;
+    text-align: center;
+    padding: 20px 20px 10px 20px;
+    margin: auto;
+    width: 90%;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 5px;
+    box-shadow: 5px 5px 20px grey;
+}
+
+.card-header{
+    background-color: aliceblue;
+}
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+  }
