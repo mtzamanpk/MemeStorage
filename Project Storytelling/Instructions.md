@@ -12,7 +12,7 @@
 1. ```npm init```
 2. ```npm i express ejs mongoose```
 3. ```npm i passport passport-local passport-local-mongoose express-session dotenv```
-##### Now pelase type 
+##### Now please type in the console
 ```npx nodemon``` 
 #### it will be running on http://localhost:3000/
 
